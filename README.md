@@ -30,7 +30,10 @@
   <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurav1Nn&show_icons=true&locale=en&layout=compact" alt="gaurav1Nn" /></p>
+## Most Used Languages
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurav1Nn&show_icons=true&locale=en&layout=compact&langs_count=8" alt="Most Used Languages" />
+</p>
 
 
 
