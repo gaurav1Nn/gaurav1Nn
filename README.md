@@ -1,46 +1,70 @@
-<h1 align="center">Hi 👋, I'm GAURAV NILAWAR</h1>
-<h3 align="center">
-  I am currently studying Data Science at Shri Ramdeobaba College of Engineering & Management. My journey in technology is driven by a strong interest in programming, web development, and data-related technologies.
-</h3>
+<!-- Improved GitHub README.md for Gaurav Nilawar -->
 
-- 🌱 Currently honing my skills in **Web Development** and **Data Structures & Algorithms (DSA)**
-- 🎓 Pursuing a degree in **Data Science** with a focus on innovative projects and real-world applications
-- 💡 Enthusiastic about learning new technologies and applying them to solve complex problems
+<h1 align="center">
+  Hey there! 👋 I'm <span style="color:#4fc3f7">Gaurav Nilawar</span>
+</h1>
 
-<h3 align="left">Connect with me:</h3>
+<p align="center">
+  <em>B.Tech (Data Science) @ Shri Ramdeobaba College of Engineering & Management</em><br>
+  <strong>Passionate about Web Development, Machine Learning & Problem Solving</strong>
+</p>
+
+---
+
+### 🚀 About Me
+- 🔭 Currently working on **Web Development** & **Data Structures and Algorithms (DSA)**
+- 🎓 Pursuing Data Science with a focus on real-world applications & innovative solutions
+- 💡 Enthusiastic about solving complex problems with clean and scalable solutions
+
+---
+
+### 📫 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/gaurav-nilawar-99185b259/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav nilawar" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/gaurav-nilawar-99185b259/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:nilawargaurav@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/gaurav1Nn">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<p align="left">
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React%20Router-%23282C34.svg?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" />
+---
+
+### 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts,html,css,react,nodejs,express,mongodb,tailwind,vscode,git" />
 </p>
 
+---
+
+### 📈 GitHub Stats & Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav1Nn&layout=compact&theme=radical" alt="Top Languages" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=gaurav1Nn&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
+---
 
-## Most Used Languages
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurav1Nn&show_icons=true&locale=en&layout=compact&langs_count=8" alt="Most Used Languages" />
-</p>
+### 🔥 Current Focus
+- ✅ DSA Practice (300+ problems solved on LeetCode)
+- ✅ Full-Stack Projects using MERN Stack
+- ✅ Exploring AI/ML with real-world applications
 
+---
 
+### 🏆 Achievements
+- 🥇 Winner - **ETHSF Hackathon 2025** for decentralized NFT platform
+- 📊 Developed **Campus Connect** & **Medisen** with impactful features and real-world value
+- 🌐 80%+ accuracy in disease prediction ML model
 
+---
 
+> "I believe in consistent learning and meaningful problem-solving. My goal is to grow in health, wealth, and happiness—both personally and professionally."
+
+---
+
+⭐ Feel free to explore my repositories and connect with me. Let’s build something amazing together!
