@@ -35,7 +35,7 @@
 
 ### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts,html,css,react,nodejs,express,mongodb,tailwind,vscode,git,docker" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts,html,css,react,nodejs,express,mongodb,tailwind,vscode,git,docker,redis,prisma,neon" />
 </p>
 
 ---
@@ -57,7 +57,7 @@
 ---
 
 ### 🏆 Achievements
-- 🥇 Winner - **ETHSF Hackathon 2025** for decentralized NFT platform
+- 🥇 Winner - **ETHSF Hackathon 2025** for decentralized platform
 - 📊 Developed **Campus Connect** & **Medisen** with impactful features and real-world value
 - 🌐 80%+ accuracy in disease prediction ML model
 
