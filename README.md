@@ -40,7 +40,7 @@
 
 ---
 
-### 📈 GitHub Stats & Most Used Languages
+### 📈 Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav1Nn&layout=compact&theme=radical" alt="Top Languages" />
   <br>
