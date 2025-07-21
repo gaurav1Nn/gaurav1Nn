@@ -50,7 +50,7 @@
 ---
 
 ### 🔥 Current Focus
-- ✅ DSA Practice (300+ problems solved on LeetCode)
+- ✅ DSA Practice (450+ problems solved on LeetCode)
 - ✅ Full-Stack Projects using MERN Stack
 - ✅ Exploring AI/ML with real-world applications
 
